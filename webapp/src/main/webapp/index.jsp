@@ -16,6 +16,8 @@
     </label>
   </div>
 
+  <div <a href="https://www.baps.org/Global-Network/North-America/LosAngeles.aspx">visit this link for your inner peace</a>
+
   <div class="container" style="background-color:#f1f1f1">
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
