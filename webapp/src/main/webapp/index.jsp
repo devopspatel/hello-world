@@ -9,6 +9,7 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
+    <br>
     <input type="password" placeholder="Enter Password" name="psw" required>
     
     <button type="submit">Login</button>
