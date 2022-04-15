@@ -29,7 +29,7 @@
     <br>
     <div>
         <label>Change Heading Background To:</label>
-        <button type="button" onclick="changeHeadingBg('white');">White</button>
+        <button type="button" onclick="changeHeadingBg('red');">red</button>
         <button type="button" onclick="changeHeadingBg('green');">Green</button>
         <button type="button" onclick="changeHeadingBg('blue');">Blue</button>
     </div>
