@@ -1,4 +1,4 @@
-<form action="action_page.php" method="post">
+https://github.com/devopspatel/hello-world.git<form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
@@ -25,7 +25,7 @@
 
   <div <a href="https://www.baps.org/Global-Network/North-America/LosAngeles.aspx">visit this link for your inner peace</a>
 
-  <div class="container" style="background-color:#f1f1f1">
+  <div class="container" style="background-color:#E8FDFF">
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
