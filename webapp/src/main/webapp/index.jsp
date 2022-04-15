@@ -21,7 +21,8 @@
     <hr>
     <div>
         <label>Change Webpage Background To:</label>
-        <button type="button" onclick="changeBodyBg('yellow');">Yellow</button>
+        <br>
+	<button type="button" onclick="changeBodyBg('yellow');">Yellow</button>
         <br>
 	<button type="button" onclick="changeBodyBg('lime');">Lime</button>
 	<button type="button" onclick="changeBodyBg('orange');">Orange</button>
@@ -29,7 +30,7 @@
     <br>
     <div>
         <label>Change Heading Background To:</label>
-        <button type="button" onclick="changeHeadingBg('red');">red</button>
+        <button type="button" onclick="changeHeadingBg('pink');">Pink</button>
         <button type="button" onclick="changeHeadingBg('green');">Green</button>
         <button type="button" onclick="changeHeadingBg('blue');">Blue</button>
     </div>
