@@ -25,7 +25,7 @@ https://github.com/devopspatel/hello-world.git<form action="action_page.php" met
 
   <div <a href="https://www.baps.org/Global-Network/North-America/LosAngeles.aspx">visit this link for your inner peace</a>
 
-  <div class="container" style="background-color:#E8FDFF">
+  <div class="container" style="background-color:#0000FF">
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
