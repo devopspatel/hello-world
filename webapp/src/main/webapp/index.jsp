@@ -16,7 +16,7 @@
 </script>
 </head>
 <body>
-    <h1 id="heading">This is a heading</h1>
+    <h1 id="heading">THIS IS HEADING PRASHANT</h1>
     <p>This is a paragraph of text.</p>
     <hr>
     <div>
