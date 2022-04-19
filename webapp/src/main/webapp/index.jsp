@@ -23,7 +23,6 @@
         <label>Change Webpage Background To:</label>
         <br>
 	<button type="button" onclick="changeBodyBg('yellow');">Yellow</button>
-        <br>
 	<button type="button" onclick="changeBodyBg('lime');">Lime</button>
 	<button type="button" onclick="changeBodyBg('orange');">Orange</button>
     </div>
